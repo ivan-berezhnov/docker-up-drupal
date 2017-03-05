@@ -30,7 +30,6 @@ and mariadb container.
 sudo docker-compose up -d
 ```
 
-# Edit down text #
 ### SSH into the container:
 ```shell
 docker exec -it $PROJECT_NAME-drupal bash
